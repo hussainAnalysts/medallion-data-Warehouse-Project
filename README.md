@@ -118,7 +118,7 @@ Below is the root‑level folder and file structure designed for transparency an
 ## 📧 Contact
 **Author:** Hussaini Ismail Ahmad
 **Email:** husainmacdon@gmail.com
-**LinkedIn:**  https://www.linkedin.com/in/hussain-ismail-682876222
+**LinkedIn:** https://www.linkedin.com/in/hussaini-ismail-820020324/
 
 
 
